@@ -1,0 +1,8 @@
+# Compiled executable files
+/cache_lab
+/cache_O0
+/cache_O2
+/cache_O3
+
+# macOS files
+.DS_Store
